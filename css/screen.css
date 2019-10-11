@@ -196,6 +196,8 @@ html {
   line-height: 1.182em; /* 26px / ~ 120% */
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
+  text-align: center;
+  font-family:  'Josefin Sans', sans-serif;
 }
 
 label {
@@ -203,6 +205,15 @@ label {
 }
 
 /* ===== LAYOUT STYLES ====== */
+main {
+  background-color: #999999;
+  margin-left: 20em;
+  margin-right: 20em;
+  height: 30em;
+}
+h1{
+  padding-top: 5em
+}
 
 /* ===== MODULAR STYLES ===== */
 
