@@ -198,7 +198,7 @@ html {
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
   text-align: center;
-  font-family:  'Josefin Sans', sans-serif;
+  font-family: 'Impact',"Franklin Gothic Bold",serif;
 }
 
 label {
@@ -213,7 +213,8 @@ main {
   height: 30em;
 }
 h1{
-  padding-top: 5em
+  padding-top: 5em;
+  font-family: 'Copperplate',"Copperplate Gothic Light",fantasy; 
 }
 
 /* ===== MODULAR STYLES ===== */
