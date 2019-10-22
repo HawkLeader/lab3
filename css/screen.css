@@ -25,6 +25,7 @@ textarea {
   font-size: 100%; /* 1 */
   line-height: 1.15; /* 1 */
   margin: 0; /* 2 */
+  width: 75%;
 }
 
 /**
@@ -207,8 +208,8 @@ label {
 /* ===== LAYOUT STYLES ====== */
 main {
   background-color: #999999;
-  margin-left: 20em;
-  margin-right: 20em;
+  margin-left: 0em;
+  margin-right: 0em;
   height: 30em;
 }
 h1{
